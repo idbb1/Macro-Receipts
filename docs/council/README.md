@@ -40,3 +40,4 @@ afterwards, and record the disagreements as well as the conclusions.
 | # | Date | Question | Output |
 |---|---|---|---|
 | 001 | 2026-08-28 | Engagement, revenue, the share, and look/feel/style/format for the X-first launch | [`session-001-brainstorm.md`](./session-001-brainstorm.md) · [`session-001-decisions.md`](./session-001-decisions.md) |
+| 002 | 2026-08-28 | Cold start: zero followers, no budget — how do we get attention? | [`session-002-brainstorm.md`](./session-002-brainstorm.md) · [`session-002-decisions.md`](./session-002-decisions.md) |
